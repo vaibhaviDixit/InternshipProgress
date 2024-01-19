@@ -54,6 +54,16 @@
 ###### Project: eSubhalekha
 + Set wedding templates folder in esubhalekha
 
+# 17/1/24
+###### Project: Swami Vivekananda Quiz
++ Setting Quiz for 8th to 10th age group (seniors)
+
+# 19/1/24
+###### Project: eSubhalekha
++ Design attractive PPT to pitch the business plan of eSubhalekha
+
+
+
 
 
 
