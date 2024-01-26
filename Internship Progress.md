@@ -58,9 +58,31 @@
 ###### Project: Swami Vivekananda Quiz
 + Setting Quiz for 8th to 10th age group (seniors)
 
-# 19/1/24
+# 19/1/24 - 20/1/24
 ###### Project: eSubhalekha
 + Design attractive PPT to pitch the business plan of eSubhalekha
+
+# 23/1/24 -24/1/24
+###### Project: KE Learn
++ Help Sasidhar & Sambhram to Build KE AI Assistant
+
+# 25/1/24
+###### Project: Swami Vivekanand Quiz
++ Set the Quiz for Semi finals of Seniors(8th-10th)
++ Setup KE AI Assistant
+
+# 26/1/24
+###### Project: Swami Vivekanand Quiz
++ Finishing of Quiz for Semi finals of Seniors(8th-10th)
++ Build KE AI Assistant
+
+
+
+
+
+
+
+
 
 
 
