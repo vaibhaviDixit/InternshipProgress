@@ -76,6 +76,15 @@
 + Finishing of Quiz for Semi finals of Seniors(8th-10th)
 + Build KE AI Assistant
 
+# 27/1/24
+###### Project: KE learn
++ Setup KE chat Web UI
++ Fix minor issues in KE chat 
+
+
+
+
+
 
 
 
