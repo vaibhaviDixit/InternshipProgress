@@ -54,6 +54,11 @@
 ###### Project: eSubhalekha
 + Set wedding templates folder in esubhalekha
 
+# 13/1/24 to 16/1/24
+###### Learning Task:
++ Learn meta tags, sitemap.xml,robots.txt
++ Upload website on Google Search Engine and optimize rank 
+
 # 17/1/24
 ###### Project: Swami Vivekananda Quiz
 + Setting Quiz for 8th to 10th age group (seniors)
