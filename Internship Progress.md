@@ -1,3 +1,5 @@
+
+## January 2024
 # 1/1/24
 ###### Project: eSubhalekha
 + Finish Update & Delete methods of WeddingController
@@ -54,11 +56,6 @@
 ###### Project: eSubhalekha
 + Set wedding templates folder in esubhalekha
 
-# 13/1/24 to 16/1/24
-###### Learning Task:
-+ Learn meta tags, sitemap.xml,robots.txt
-+ Upload website on Google Search Engine and optimize rank 
-
 # 17/1/24
 ###### Project: Swami Vivekananda Quiz
 + Setting Quiz for 8th to 10th age group (seniors)
@@ -77,16 +74,38 @@
 + Setup KE AI Assistant
 
 # 26/1/24
-###### Project: Swami Vivekanand Quiz
+###### Project: Swami Vivekanand Quiz,Kautilya Edu.
 + Finishing of Quiz for Semi finals of Seniors(8th-10th)
-+ Build KE AI Assistant
++ Build KE Chat Assistant
 
 # 27/1/24
-###### Project: KE learn
-+ Setup KE chat Web UI
-+ Fix minor issues in KE chat 
+###### Project: Swami Vivekanand Quiz,Kautilya Edu.
++ Work on KE AI Assistant
++ Fix issues in KE Chat
 
+# 28/1/24
+###### Project: Swami Vivekanand Quiz,Kautilya Edu.
++ Fix UI related issues in KE Chat
++ Work on finals Quiz
 
+# 29/1/24
+###### Project: Swami Vivekanand Quiz, Kautilya Edu.
++ Fix UI related issues in KE Chat
++ Work on finals Quiz for Juniors & Seniors
+
+# 29/1/24
+###### Project: Swami Vivekanand Quiz
++ Work on finals Quiz for Juniors & Seniors
+
+# 30/1/24
+###### Project: Swami Vivekanand Quiz, eSubhlekha
++ Work on finals Quiz for Juniors & Seniors
++ Record eSubhlekha wedding creation flow
+
+# 31/1/24
+###### Project: Swami Vivekanand Quiz, eSubhlekha
++ Work on finals Quiz for Juniors & Seniors
++ Fix eSubhlekha 'signature mismatch error' (occurs due to Typos in key or timestamp prefix to file name)
 
 
 
