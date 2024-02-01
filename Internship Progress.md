@@ -110,7 +110,7 @@
   ## February 2024
 
 
-# 31/1/24
+# 1/2/24
 ###### Project: KEChat
 + Fix links rendering issue in KEChat
 + Host KEChat to hostinger: [ https://chat.kautilyaeducation.com/ ]
