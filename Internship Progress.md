@@ -114,7 +114,29 @@
 ###### Project: KEChat
 + Fix links rendering issue in KEChat
 + Host KEChat to hostinger: [ https://chat.kautilyaeducation.com/ ]
-  
+
+# 2/2/24
+###### Project: KEChat
++ Fix table rendering issue in KEChat
+
+# 3/2/24
+###### Project: WebAR
++ Test various examples of Ar.js
+
+# 4/2/24
+###### Project: WebAR
++ Work on Ar.js video display
++ Remove green screen of video using javascript
+
+# 5/2/24
+###### Project: WebAR
++ Test removed green screen video in AR
+
+# 6/2/24
+###### Project: Vivekananda Quiz 2025
++ Install Vivekananda Quiz 2024
++ Migrate Vivekananda Quiz 2024 version to GrapehenPHP 2.0 version
++ Fix database, routes and other stuff according to GrapehenPHP 2.0
 
 
 
