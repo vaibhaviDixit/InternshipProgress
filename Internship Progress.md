@@ -138,6 +138,17 @@
 + Migrate Vivekananda Quiz 2024 version to GrapehenPHP 2.0 version
 + Fix database, routes and other stuff according to GrapehenPHP 2.0
 
+# 7/2/24
+###### Project: Vivekananda Quiz 2025
++ Rewrite ParticipantController with Validate class
++ Notify participants through mail.
++ Fix categories accrding to grade of students
+
+# 8/2/24
+###### Project: Vivekananda Quiz 2025
++ Fix minor issues
++ Check if all things are working fine
+
 
 
 
