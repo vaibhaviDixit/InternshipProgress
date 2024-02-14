@@ -144,10 +144,15 @@
 + Notify participants through mail.
 + Fix categories accrding to grade of students
 
-# 8/2/24
+# 8/2/24 - 11/2/24
 ###### Project: Vivekananda Quiz 2025
 + Fix minor issues
 + Check if all things are working fine
+
+# 12/2/24 - 16/2/24
+###### Project: Vivekananda Quiz 2025
++ Fix major issues
++ UI related changes, DB related changes
 
 
 
