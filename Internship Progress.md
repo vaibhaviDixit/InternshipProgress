@@ -155,6 +155,41 @@
 + UI related changes, DB related changes
 
 
+# 17/2/24
+###### Project: Vivekananda Quiz 2025
++ Host project on hostinger
+
+# 18/2/24 - 20/2/24
+###### Project: Vivekananda Quiz 2025
++ Fix import file related issues
++ Fix datatable related issues
+
+# 24/2/24 - 25/2/24
+###### Project: eSubhalkeha
++ Design UI for Login and register using OTP
+
+# 25/2/24 - 26/2/24
+###### Project: Other
++ Design PPT For SPD Driving
+
+# 28/2/24
+###### Project: Other
++ Prepare Google Form to accept Interns data
+
+  ## March 2024
+
+# 1/3/24 - 4/3/24
+###### Project: eSubhalkeha
++ Develop UI for Login and register using OTP
++ Write Controller for Guest Management
++ Design Form to accept guest data
+
+
+
+
+
+
+
 
 
 
