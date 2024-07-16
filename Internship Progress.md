@@ -184,7 +184,13 @@
 + Write Controller for Guest Management
 + Design Form to accept guest data
 
-
+Tasks carried out later:
++ OTP integration
++ Music player added
++ Seekbar modification
++ Save button fixed
++ Framework updation
++ API Endpoints Implmentation
 
 
 
